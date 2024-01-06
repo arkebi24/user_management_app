@@ -47,6 +47,10 @@ To run this project locally, follow these steps:
    # Start the React app
    npm start
    ```
+## Demo: 
+
+https://www.youtube.com/watch?v=7TcJ9JcfpYw
+
 
 ## Usage
 
